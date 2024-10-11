@@ -1,5 +1,6 @@
 # espanso-nick
-personal espanso configuration 
+
+My espanso setup
 
 
-[Sync Documentation](https://espanso.org/docs/sync/)
+[Espanso Configuration](https://espanso.org/docs/configuration/options)
