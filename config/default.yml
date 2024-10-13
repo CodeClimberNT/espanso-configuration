@@ -29,7 +29,7 @@ toggle_key: LEFT_CTRL
 # --- Auto-restart
 
 # Enable/disable the config auto-reload after a file change is detected.
-# auto_restart: false
+auto_restart: false
 
 # --- Clipboard threshold
 
@@ -43,8 +43,9 @@ toggle_key: LEFT_CTRL
 
 # Disable search shortcut, to enable it, comment the option below, 
 # to change the key to a specific combination: https://espanso.org/docs/configuration/options/#customizing-the-search-shortcut
-search_shortcut: off
-search_trigger: off
+search_shortcut: OFF
+search_trigger: OFF
+show_notifications: false
 
 # default 
 # search_shortcut: ALT+SPACE
